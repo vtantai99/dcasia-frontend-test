@@ -57,7 +57,9 @@ module.exports = {
         },
       },
       backgroundColor: {
-        "primary": "#edf2f7",
+        primary: "#edf2f7",
+        gray: "#f2f4f8",
+        secondary: "#6833ff",
       },
       boxShadow: {
         "custom-1": "0px 50px 100px -20px rgba(50, 50, 93, 0.25)",
